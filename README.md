@@ -278,6 +278,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 This is a regression project. Therefore, the main model evaluation metric is R², not a confusion matrix.  
 A confusion matrix would only be appropriate after converting continuous prices into discrete classes, such as low, medium and high price groups.
 
-## Author
-
-**Rafał Żur**
